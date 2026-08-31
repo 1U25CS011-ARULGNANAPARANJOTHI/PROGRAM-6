@@ -22,7 +22,4 @@ UPDATE Student
 SET DepartmentID = 105
 WHERE StudentID = 1003;
 
-DELETE FROM Student
-WHERE StudentID = 1002;
-
 SELECT * FROM Student;
